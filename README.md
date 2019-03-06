@@ -15,7 +15,7 @@ Once the user has selected the id the user is asked how many. Thus, create an if
 
 <img width="349" alt="capture3" src="https://user-images.githubusercontent.com/44793792/53902895-41da7100-4010-11e9-9b18-29c4ae920a3b.PNG">
 
-If the user select and item and orders a larger quantity then what is available in the "stock_quantity", they will receive an "insufficient quantity"
+If the user selected an item and orders a larger quantity then what is available in the "stock_quantity", they will receive an "insufficient quantity"
 
 <img width="341" alt="capture4" src="https://user-images.githubusercontent.com/44793792/53902996-81a15880-4010-11e9-9791-f336e5a21002.PNG">
 
